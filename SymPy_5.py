@@ -2,7 +2,7 @@
 SumPy  - formulas solvation 
 """
 
-from matplotlib.pyplot import legend
+
 from sympy import symbols, solve, pprint, Symbol, plot
 
 """

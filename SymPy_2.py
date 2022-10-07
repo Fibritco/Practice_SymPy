@@ -2,7 +2,7 @@
 SymPy
 """
 
-from re import X
+
 from sympy import sympify
 from sympy.core.sympify import SympifyError
 # Example 1 - sympify  (data from user)
